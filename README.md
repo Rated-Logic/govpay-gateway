@@ -1,6 +1,6 @@
 GovPay Gateway Project
 Overview
-A sandbox government payment gateway built with FastAPI and MongoDB for an 8-week internship training program. It supports invoice registration, payment processing, and notifications with data replication across two instances.
+A sandbox government payment gateway built with FastAPI and Apache CassandraDB for an 8-week internship training program. It supports invoice registration, payment processing, and notifications with data replication across two instances.
 Week 1 Setup Instructions
 
 Install Python 3.10+:
